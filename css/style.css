@@ -1,0 +1,55 @@
+
+.header{
+    height: 90vh;
+    width: 100%;
+    color: white;
+    background-image: linear-gradient(to right,rgba(199, 56, 56, 0.9),rgba(151, 143, 143, 0.1)), url('https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-size: cover;
+    font-family: 'Satisfy', cursive !important;
+}
+
+.h100{
+    height: 100%;
+    width: 100%;
+}
+
+.btn{
+    border-radius: 10rem;
+    padding: 1rem 1.5rem !important; 
+}
+
+.message{
+    background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+
+}
+
+.my-icon{
+    font-size: 60px;
+    padding: 20px;
+}
+
+body{
+    font-family: 'Anonymous Pro', monospace;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.image-icon{
+    width: 100px;
+}
+
+.header-service{
+    
+    color: white;
+    /* background-image: linear-gradient(to right,rgba(199, 56, 56, 0.9),rgba(151, 143, 143, 0.1)), url('https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'); */
+    /* background-size: cover; */
+    background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+}
+
+.card{
+    height: 100%;   
+}
