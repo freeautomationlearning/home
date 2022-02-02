@@ -61,3 +61,9 @@ body{
 .card{
     height: 100%;   
 }
+
+.service{
+    background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
+    
+
+}
