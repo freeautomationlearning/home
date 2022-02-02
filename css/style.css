@@ -5,9 +5,17 @@
     color: white;
     background-image: linear-gradient(to right,rgba(199, 56, 56, 0.9),rgba(151, 143, 143, 0.1)), url('https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
     background-size: cover;
-    font-family: 'Satisfy', cursive !important;
+    font-family: 'Satisfy', cursive;
 }
 
+.sub-header{
+    font-family: 'Anonymous Pro', monospace !important;
+    font-family: 'Barlow', sans-serif !important;
+    font-family: 'Fira Sans Condensed', sans-serif !important;
+    font-family: 'Open Sans Condensed', sans-serif !important;
+    font-family: 'Roboto Mono', monospace !important;
+    color: white
+}
 .h100{
     height: 100%;
     width: 100%;
