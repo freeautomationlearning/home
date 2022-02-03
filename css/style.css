@@ -88,10 +88,10 @@ body{
     height: 200px;
 }
 
-a.specialeffects:hover {
-    /* font-size: 150%; */
-    /* text-decoration: underline;  */
-  } 
+/* a.specialeffects:hover {
+     font-size: 150%; 
+     text-decoration: underline;  
+  }  */
   
 
   a.specialeffects {background-image: linear-gradient(to right, #ff6e7f 0%, #bfe9ff  51%, #ff6e7f  100%)}
@@ -158,6 +158,11 @@ a.specialeffects:hover {
   @keyframes mymove {
     from {top: 0px;}
     to {top: 300px;}
+  }
+
+  .button a{
+    width: 20%;
+    margin-left: 40%;
   }
 
   .footer{
