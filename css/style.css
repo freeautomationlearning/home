@@ -31,11 +31,11 @@
     padding: 1rem 1rem !important; 
     max-width: 60%;
     margin-left: 20%;
+    margin-bottom: 5%;
     position: absolute;
     bottom: 0;
     right: 0;
     left: 0;
-    margin-bottom: 5%;
 }
 
 .card p{
@@ -80,7 +80,7 @@ body{
 
 .service{
     background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
-    height: 500px;
+    height: 80%;
 }
 
 .contact{
@@ -119,7 +119,7 @@ body{
   .button-main {background-image: linear-gradient(to right, #C04848 0%, #480048  51%, #C04848  100%)}
   .button-main {
      margin: 10px;
-     padding: 15px 45px;
+     padding: 1% 1%;
      text-align: center;
      text-transform: uppercase;
      transition: 0.5s;
